@@ -11,6 +11,7 @@
 
 # Time of sensor data acquisition, and the coordinate frame ID (for 3d
 # points).
+
 Header header
 
 # 2D structure of the point cloud. If the cloud is unordered, height is
